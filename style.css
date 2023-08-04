@@ -1,4 +1,4 @@
-
+@import url('https://fonts.googleapis.com/css2?family=Caveat&family=Courgette&family=Creepster&family=Fredoka:wght@500&family=Gayathri&family=Lexend+Mega&family=MuseoModerno&family=Nabla&family=Nosifer&family=Pacifico&family=Permanent+Marker&family=Trade+Winds&display=swap');
 
 
 body {
@@ -7,8 +7,9 @@ body {
     margin: 0;
     background-color:darkslategray;
     color: #f5f6f7;
-    font-family: Tahoma;
-    font-size: 16px;
+    font-family: "Gayathri", sans-serif;
+    font-size: 18px;
+    letter-spacing: 1px;
   }
   
   h1, p {
@@ -36,7 +37,7 @@ body {
   
   label {
     display: block;
-    margin: 0.5rem 0;
+    margin: 0.9rem 0 0.9rem 0;
   }
   
   input,
