@@ -1,8 +1,11 @@
+
+
+
 body {
     width: 100%;
     height: 100vh;
     margin: 0;
-    background-color: #1b1b32;
+    background-color:darkslategray;
     color: #f5f6f7;
     font-family: Tahoma;
     font-size: 16px;
@@ -71,5 +74,6 @@ body {
     padding: 1px 2px;
   }
   
-  
-  
+  a {
+    color: #dfdfe2;
+  }
