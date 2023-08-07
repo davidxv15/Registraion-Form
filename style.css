@@ -93,3 +93,9 @@ input[type="radio"] {
 input[type="checkbox"] {
   accent-color: green;
 }
+
+input[type="submit"] {
+  font-family: "Gayathri", sans-serif;
+  text-align: center;
+  transform: translateY(-16px);
+}
