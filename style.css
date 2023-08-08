@@ -95,8 +95,13 @@ input[type="checkbox"] {
   accent-color: green;
 }
 
+#bio {
+  font-family: "Gayathri", sans-serif;
+}
+
 input[type="submit"] {
   font-family: "Gayathri", sans-serif;
   text-align: center;
   transform: translateY(-16px);
 }
+
