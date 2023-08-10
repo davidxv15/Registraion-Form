@@ -24,6 +24,11 @@ p {
   width: 40vw;
 }
 
+.image-on-page {
+  width: 120px;
+  border-radius: 50%;
+}
+
 form {
   width: 60vw;
   max-width: 500px;
