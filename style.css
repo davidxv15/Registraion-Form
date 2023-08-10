@@ -110,3 +110,19 @@ input[type="submit"] {
   transform: translateY(-16px);
 }
 
+.parallax {
+  background: rgb(56, 97, 190);
+  background: linear-gradient(
+    0deg,
+    rgba(56, 97, 190, 1) 0%,
+    rgba(11, 115, 162, 1) 50%,
+    rgba(56, 97, 190, 1) 100%
+  );
+  min-height: 500px;
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
