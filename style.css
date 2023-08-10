@@ -24,10 +24,17 @@ p {
   width: 40vw;
 }
 
+.image-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
 .image-on-page {
   width: 120px;
   border-radius: 50%;
 }
+
 
 form {
   width: 60vw;
@@ -119,8 +126,6 @@ input[type="submit"] {
     rgba(56, 97, 190, 1) 100%
   );
   min-height: 500px;
-
-  /* Create the parallax scrolling effect */
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
