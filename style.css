@@ -33,6 +33,7 @@ p {
 .image-on-page {
   width: 120px;
   border-radius: 50%;
+  margin-top: -50px;
 }
 
 
