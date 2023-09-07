@@ -5,12 +5,12 @@ body {
   height: 100vh;
   margin: 0;
   background: rgb(56, 97, 190);
-  background: linear-gradient(
+  /* background: linear-gradient(
     0deg,
     rgba(56, 97, 190, 1) 0%,
     rgba(11, 115, 162, 1) 50%,
     rgba(56, 97, 190, 1) 100%
-  );
+  ); */
   color: #f5f6f7;
   font-family: "Gayathri", sans-serif;
   font-size: 20px;
@@ -35,7 +35,6 @@ p {
   border-radius: 50%;
   margin-top: -50px;
 }
-
 
 form {
   width: 60vw;
@@ -120,12 +119,8 @@ input[type="submit"] {
 
 .parallax {
   background: rgb(56, 97, 190);
-  background: linear-gradient(
-    0deg,
-    rgba(56, 97, 190, 1) 0%,
-    rgba(11, 115, 162, 1) 50%,
-    rgba(56, 97, 190, 1) 100%
-  );
+  background-image: linear-gradient(to right top, #e3c782, #e5bb85, #e2b18a, #dba78f, #d1a094, #ce9b97, #ca979b, #c4949e, #c591a5, #c390ae, #bf8fb8, #b690c3);tus
+  
   min-height: 500px;
   background-attachment: fixed;
   background-position: center;
